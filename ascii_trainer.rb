@@ -1,5 +1,4 @@
 #!/usr/bin/env ruby
-#(32..128).each { |num| puts "#{num}?#{num.chr},#{rand(32..64).chr},#{rand(65..96).chr},#{rand(97..127).chr}:0" }
 
 class Question
   def initialize position
